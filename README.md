@@ -45,7 +45,7 @@ stream {
 ### Configuration directives
 
 #### mqtt_preread
-* **syntax**: `	mqtt_preread on | off;`
+* **syntax** : `mqtt_preread on|off;`
 * **default**: `mqtt_preread off;`
 * **context**: `stream, server`
 
